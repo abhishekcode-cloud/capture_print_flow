@@ -34,16 +34,7 @@ This project is a starting point for a Flutter application. Follow the steps bel
 
 4. **Run the application:**;
    - flutter run
-     
-5.**Folder Structure (Example)**; 
 
-## lib/
-   ├── main.dart               # Entry point of the Flutter app
-   ├── screens/                # All UI screens
-   ├── widgets/                # Reusable widgets
-   ├── controller/             # Business logic or state controllers
-   ├── model/                  # Data models
-   └── utils/                  # Helper functions and utilities 
 
 ## 👤 Author
 
