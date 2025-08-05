@@ -37,13 +37,18 @@ This project is a starting point for a Flutter application. Follow the steps bel
      
 5.**Folder Structure (Example)**; 
 
-lib/
-├── main.dart               # Entry point of the Flutter app
-├── screens/                # All UI screens
-├── widgets/                # Reusable widgets
-├── controller/             # Business logic or state controllers
-├── model/                  # Data models
-└── utils/                  # Helper functions and utilities
+## lib/
+   ├── main.dart               # Entry point of the Flutter app
+   ├── screens/                # All UI screens
+   ├── widgets/                # Reusable widgets
+   ├── controller/             # Business logic or state controllers
+   ├── model/                  # Data models
+   └── utils/                  # Helper functions and utilities 
 
+## 👤 Author
+
+**Abhishek Kumar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-7086a75a)  
+🔗 [GitHub](https://github.com/abhishekcode-cloud)
 
 
