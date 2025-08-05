@@ -1,17 +1,48 @@
-# capture_print_flow
-This project is built using Flutter and Dart. It allows users to:  Display a logo or brand image  Capture a photo using the device camera  Automatically overlay the logo on the captured image  Generate and prepare the final image for printing  It's a lightweight utility tool for quick branding, ID generation, or image-based print tasks.
+# 📸 capture_print_flow
 
-A new Flutter project.
+This project is built using **Flutter** and **Dart**.
 
-## Getting Started
+It allows users to:
+- 🖼️ Display a logo or brand image
+- 📷 Capture a photo using the device camera
+- 🧩 Automatically overlay the logo on the captured image
+- 🖨️ Generate and prepare the final image for printing
 
-This project is a starting point for a Flutter application.
+> It's a lightweight utility tool ideal for quick branding, ID generation, or image-based print tasks.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a starting point for a Flutter application. Follow the steps below to run it locally.
+
+### 🔧 Prerequisites
+
+- Flutter SDK (latest)
+- Android Studio or VS Code
+- Android/iOS emulator or physical device
+
+### ⚙️ Setup
+
+1. **Clone the repository**:
+   ```bash
+   git https://github.com/abhishekcode-cloud/capture_print_flow.git
+   cd capture_print_flow
+2. **Install dependencies:**;
+   
+    - flutter pub get
+
+4. **Run the application:**;
+   - flutter run
+     
+5.**Folder Structure (Example)**; 
+
+lib/
+├── main.dart
+├── screens/
+├── widgets/
+├── controller/
+├── model/
+└── utils/
+
+
