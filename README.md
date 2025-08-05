@@ -1,6 +1,7 @@
 # 📸 capture_print_flow
 
 This project is built using **Flutter** and **Dart**.
+![Dart](https://img.shields.io/badge/language-Dart-blue.svg)
 
 It allows users to:
 - 🖼️ Display a logo or brand image
